@@ -1,0 +1,14 @@
+{
+  "name": "plex-notifications",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.14.0",
+    "mediakeys": "^0.2.0",
+    "multer": "^1.2.1",
+    "node-notifier": "^4.6.1",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {}
+}
